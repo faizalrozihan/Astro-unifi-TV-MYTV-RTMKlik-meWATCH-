@@ -1,0 +1,188 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZJMnVPLUVtMFlGSzRfV29VbDZfOXh4aTZGc2Y2YWNvbzcxZzBTOTctb0k4V2c5TlBETTVKbUIwTl9CdWNpZHF1Vl83d0dUUDRQV3J3T3A1NTkxVG1rdnAxN0Zha1hEdkxCRmRMV2UzR3h1ZWtEVWNmZ2hjYXBTUm95WmpvRzdDbjhmWUl3LXFnQjFma3RRQktCb0F1cThjNnNfZHJ1RFRFaVl3eDRvUkh2SHJickFxLURxcmZIbHI1S2Z5VWt6c1EzclFySDFhazVCbm5zQjR5WF9nU1lIdWZtUHVGdFJxRS04UGtoTlJXbWNNTHlPa0M1cUZpbWc0MC1PWmZ1OXlBeUpvRzJKZmItUG1Sc3FtT3l2MkFDbEgwNnpRazZqaWs2YzNneXZFSjh0NyZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkkydU8tRW0wWUZLNF9Xb1VsNl85eHhpNkZzZjZhY29vNzFnMFM5Ny1vSThXZzlOUERNNUptQjBOX0J1Y2lkcXVWXzd3R1RQNFBXcndPcDU1OTFUbWt2cDE3RmFrWER2TEJGZExXZTNHeHVla0RVY2ZnaGNhcFNSb3laam9HN0NuOGZZSXctcWdCMWZrdFFCS0JvQXVxOGM2c19kcnVEVEVpWXd4NG9SSHZIcmJyQXEtRHFyZkhscjVLZnlVa3pzUTNyUXJIMWFrNUJubnNCNHlYX2dTWUh1Zm1QdUZ0UnFFLThQa2hOUldtY01MeU9rQzVxRmltZzQwLU9aZnU5eUF5Sm9HMkpmYi1QbVJzcW1PeXYyQUNsSDA2elFrNmppazZjM2d5dkVKOHQ3IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=80GPBbsyAaHrhKpXyyIc24AyTtE%3d
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 5" tvg-chno="Ch 5" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956277%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=150&Height=150&ImageUrl=%27956277.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Ch 5
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHUl9LOE1zdXdPVmFoWllxdGN5NFFPU2lNSm4yNU9scm1qVTBRYm51NmJrTkJrUFZpckpUdm4wTEtOSVpsTTdfcmVtN0NjalNtUU9ucGtha0FwcXIwUWxMRWhFOGFfcDJqZ1FzeTlQTmx4eTEtYUZOSkdYSHMyRk82VkxIeDI5ZWxVVFlGZHRROXhYM2JkSURRcllvRGJIOHMzcmZpYWNUMEtnZm5jcVRIMTI2dW41OThsWjliREVwNTR0aDQ5a1BnS2UtZVpZMUJ6bDY1cDNiTS1sMEtKaksyRzZqWkVyaEFtT2tJYVd5SGFCRzJwbF9WcHloa0ZqZnk0bk8zY3RXYlFFT3Jab3Q0TWwyTW0zLXJWOE8tWDBsOHhSRXdnemwtelhQa09MbXozUDBBNlZiS3BKVV9tQUltMHQwZG1EN1dqSEhadGhMZHZhX3FuVnU3M1pMUnc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEyNCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmR1JfSzhNc3V3T1ZhaFpZcXRjeTRRT1NpTUpuMjVPbHJtalUwUWJudTZia05Ca1BWaXJKVHZuMExLTklabE03X3JlbTdDY2pTbVFPbnBrYWtBcHFyMFFsTEVoRThhX3AyamdRc3k5UE5seHkxLWFGTkpHWEhzMkZPNlZMSHgyOWVsVVRZRmR0UTl4WDNiZElEUXJZb0RiSDhzM3JmaWFjVDBLZ2ZuY3FUSDEyNnVuNTk4bFo5YkRFcDU0dGg0OWtQZ0tlLWVaWTFCemw2NXAzYk0tbDBLSmpLMkc2alpFcmhBbU9rSWFXeUhhQkcycGxfVnB5aGtGamZ5NG5PM2N0V2JRRU9yWm90NE1sMk1tMy1yVjhPLVgwbDh4UkV3Z3psLXpYUGtPTG16M1AwQTZWYktwSlVfbUFJbTB0MGRtRDdXakhIWnRoTGR2YV9xblZ1NzNaTFJ3PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=%2bCqAow9OAFy3nHzowRzHb99fy0w%3d
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956273%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=150&Height=150&ImageUrl=%27956273.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Ch 8
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZQeW5hcnBXTk9LRjM3bWxWUnBpNzV5X1hyM21MRmJnb2VTcDhFczhudk0tRzNIN1lkVzBWTUM4ODNlc0ZNUnhWNER0cGJjS2VYb09DT3B1N2RuSGFkV0pJSlowbjNQVUtJUVlhOVlMYkoxR1ZpejJOQ05fdEJDMjdDQlpMaUhMNjBhVEN4TU0zS1NpRXVwdi04MnFtc2pza1Y3dTZubnM2QVBWblF1bHo2U2xEMjBscFJLdjRiZmRZRkp6LXBlOERuUjBXZUkzcjZLbnJrd1BvY0QySGhMV2hibWtabkJJUVBJdDI1c3ZUNnk5WW1URmZIMlBZa1hFbE52anNVWlVuVnB0aUh3TUNxc2ZlWklpeGhwZEVSM0VETWtuOXBmbGxGYmhpSnA2RFMyWkZMTUpTdDJsZ00zcElxM0N6TEhxdTlMaWt5M0E2RTF6ZVY0R0I1SWpkYTA9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE1NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZlB5bmFycFdOT0tGMzdtbFZScGk3NXlfWHIzbUxGYmdvZVNwOEVzOG52TS1HM0g3WWRXMFZNQzg4M2VzRk1SeFY0RHRwYmNLZVhvT0NPcHU3ZG5IYWRXSklKWjBuM1BVS0lRWWE5WUxiSjFHVml6Mk5DTl90QkMyN0NCWkxpSEw2MGFUQ3hNTTNLU2lFdXB2LTgycW1zanNrVjd1Nm5uczZBUFZuUXVsejZTbEQyMGxwUkt2NGJmZFlGSnotcGU4RG5SMFdlSTNyNktucmt3UG9jRDJIaExXaGJta1puQklRUEl0MjVzdlQ2eTlZbVRGZkgyUFlrWEVsTnZqc1VaVW5WcHRpSHdNQ3FzZmVaSWl4aHBkRVIzRURNa245cGZsbEZiaGlKcDZEUzJaRkxNSlN0MmxnTTNwSXEzQ3pMSHF1OUxpa3kzQTZFMXplVjRHQjVJamRhMD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=WVG57nxDByUdmJ2n5n3ZFdZ9wRU%3d
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272261554%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=150&Height=150&ImageUrl=%272261554.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Ch U
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754156/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZLc0FGN0Y4eGJxVjIxYUZmeWdzR1FpUF9PeElQX2dzVG5mVFd2cUJrT3NPRTdhc3FKb01RRDhJMXVqcjdETXhOSnhSM001cjFHWENieVdvcEdVSF9MUmNnRzVhNTk5clY5QlVzUGNqZ2ZiWG9CRVl6MFBhR3NzdE1EOFZ6TnI1Q2hmTUppOGdBWDYtTjItSWg4THdJc1NlbTFRUFVVREJrNi04YmRNS21KWG9PYTFiUmdNUEtOQU42YUpTSHQyNTdla3RoN09kb3BzSy1KMmRrWThKOGc4SzFHY2pEeFZDcVpraVY5bHNuSEx6elhTVVdrcHk1NDFfU0U3dm1TLUxIZ1lnLVVHeC0wdWgzQlU2LWhDeHFxWl93X0xGMnpQeENicWsxWkt5cldTcEF6b2g2Qjl3VkxxcDZoYzVkRzNyVndVa0p2U1NEZFM0ZWFvSHBIMzd0M2c9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZLc0FGN0Y4eGJxVjIxYUZmeWdzR1FpUF9PeElQX2dzVG5mVFd2cUJrT3NPRTdhc3FKb01RRDhJMXVqcjdETXhOSnhSM001cjFHWENieVdvcEdVSF9MUmNnRzVhNTk5clY5QlVzUGNqZ2ZiWG9CRVl6MFBhR3NzdE1EOFZ6TnI1Q2hmTUppOGdBWDYtTjItSWg4THdJc1NlbTFRUFVVREJrNi04YmRNS21KWG9PYTFiUmdNUEtOQU42YUpTSHQyNTdla3RoN09kb3BzSy1KMmRrWThKOGc4SzFHY2pEeFZDcVpraVY5bHNuSEx6elhTVVdrcHk1NDFfU0U3dm1TLUxIZ1lnLVVHeC0wdWgzQlU2LWhDeHFxWl93X0xGMnpQeENicWsxWkt5cldTcEF6b2g2Qjl3VkxxcDZoYzVkRzNyVndVa0p2U1NEZFM0ZWFvSHBIMzd0M2c9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=jud4v1lq0m%2bQsaNavs1cDTokKKk%3d
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHQ1poWENDWXZ2T2k2b0xyZkFYSTdMU2c5U1JFcVZrM05BX1gxUjJaVm95X3hhc0xZX08zaWI1bWpadW1QeEE2MGozSUZZSUs2bTQ5OUdHQzl5bnpvODJuek5mMGpVS1FQa1VwaWs0QkhHeHRfUWxzTjRSWVl6cWVJRFBONnNVQWhTbzZBVDIyMmZEb01DV1Y1Nlg4Tk9Lb2tPUjVQcEFYbm8wN1hCaXRYbWtVaHh0elJJWFR0WVd2Nk12eHUwTjBBYWdPUlYxNFpMSUJHeFlESkVxM1RDZTdFS1E3d0xMUG1SUTg5OUlULTFWSjhYOGhjZEstb1l3YlY4M2puM095V0tIQmd0d3hOOGlMVlBWUkt3eXRWSTRBM20xbXEyMGZqVDZoTjBiMUJ2V29qcFl6d3M0VUdOemxNRnhDOWhpeHVuMlAyTHVTb3pOWWJGVzkwY2VDYlU9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEwOCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmR0NaaFhDQ1l2dk9pNm9McmZBWEk3TFNnOVNSRXFWazNOQV9YMVIyWlZveV94YXNMWV9PM2liNW1qWnVtUHhBNjBqM0lGWUlLNm00OTlHR0M5eW56bzgybnpOZjBqVUtRUGtVcGlrNEJIR3h0X1Fsc040UllZenFlSURQTjZzVUFoU282QVQyMjJmRG9NQ1dWNTZYOE5PS29rT1I1UHBBWG5vMDdYQml0WG1rVWh4dHpSSVhUdFlXdjZNdnh1ME4wQWFnT1JWMTRaTElCR3hZREpFcTNUQ2U3RUtRN3dMTFBtUlE4OTlJVC0xVko4WDhoY2RLLW9Zd2JWODNqbjNPeVdLSEJndHd4TjhpTFZQVlJLd3l0Vkk0QTNtMW1xMjBmalQ2aE4wYjFCdldvanBZendzNFVHTnpsTUZ4QzloaXh1bjJQMkx1U296TlliRlc5MGNlQ2JVPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=t4GvNXfmg1WHqCk3heBlYhbxQkw%3d
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956271%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=150&Height=150&ImageUrl=%27956271.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZEeVZ4dlktVnFfaF9iNlluZGRVcXdKSC1TODYxOFA5RVBfWWFrYXBjR2M5UlJfdjhjSXlkRUVJaEVrQzlfMkxJSkJjT2dDZHBKRWpxX3JtODZGUHFHZzVfcVdxYTkxc1plbENLQ0ItNGI1WURRb2xQaG52UDhrTlp0Umo5dFdGVVBaUmhkSlE2YVZ6bVZSY2MwLUZweFpYWmE5SDgwQWRDWGFtam1jclBsTTQwd0YyTENBOXNnTnlzUm1aNFRDM28tZ3U5TXhKR1FfSkVWd0gyY3VwQ2ZSamI3SFBiQzBaTUxRS0FqUWF5Zk0tUVZOaVBqeGFmZnpjWkhYZWlta2RwRHdBSkpvaVNqRElaQnd6R2ZvMjdfM29NVmRmM0RNMmo1SWQxaUtWeHRocmYtSVRVcUk1UFo2R002cktYWWdrZmc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZEeVZ4dlktVnFfaF9iNlluZGRVcXdKSC1TODYxOFA5RVBfWWFrYXBjR2M5UlJfdjhjSXlkRUVJaEVrQzlfMkxJSkJjT2dDZHBKRWpxX3JtODZGUHFHZzVfcVdxYTkxc1plbENLQ0ItNGI1WURRb2xQaG52UDhrTlp0Umo5dFdGVVBaUmhkSlE2YVZ6bVZSY2MwLUZweFpYWmE5SDgwQWRDWGFtam1jclBsTTQwd0YyTENBOXNnTnlzUm1aNFRDM28tZ3U5TXhKR1FfSkVWd0gyY3VwQ2ZSamI3SFBiQzBaTUxRS0FqUWF5Zk0tUVZOaVBqeGFmZnpjWkhYZWlta2RwRHdBSkpvaVNqRElaQnd6R2ZvMjdfM29NVmRmM0RNMmo1SWQxaUtWeHRocmYtSVRVcUk1UFo2R002cktYWWdrZmc9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=62HbOWqR639JOPxGmLwi5MZq%2bFY%3d
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956283%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=150&Height=150&ImageUrl=%27956283.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2448fc561b0c4220a81f1008971d3088&key=f48eb6753f3d1774da682970c93cf260
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="Singapore",Channel 8
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0328a153c2994b279ab03ab25102fc59&key=2cc69eaaa858fed24c5623654daf8d3d
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="Singapore",Channel U
+https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7a9ea6df52044841b0c562766e602610&key=b9380188b4896b25e8d419dfce938c6e
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="Singapore",Suria 
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-title="Singapore",Vasantham 
+https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="SINGAPORE",CHANNEL 5
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2448fc561b0c4220a81f1008971d3088&key=f48eb6753f3d1774da682970c93cf260
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="SINGAPORE",CHANNEL 8
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0328a153c2994b279ab03ab25102fc59&key=2cc69eaaa858fed24c5623654daf8d3d
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="SINGAPORE",CHANNEL U
+https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7a9ea6df52044841b0c562766e602610&key=b9380188b4896b25e8d419dfce938c6e
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="SINGAPORE",SURIA
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-title="SINGAPORE",VASANTHAM
+https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fe5edb836e82f122ab940395cbe10210&key=4fc6c26bdb1df14696ee6e53b0957883
+#EXTINF:-1 tvg-id="515" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png" group-title="NEWS",CNA
+http://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fe5edb836e82f122ab940395cbe10210&key=4fc6c26bdb1df14696ee6e53b0957883
+#EXTINF:-1 tvg-id="515" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png" group-title="MuZu | News",CNA
+http://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fe5edb836e82f122ab940395cbe10210&key=4fc6c26bdb1df14696ee6e53b0957883
+#EXTINF:-1 tvg-id="515" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png" group-title="NEWS",CNA
+http://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="SINGAPORE",CHANNEL 5
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2448fc561b0c4220a81f1008971d3088&key=f48eb6753f3d1774da682970c93cf260
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="SINGAPORE",CHANNEL 8
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0328a153c2994b279ab03ab25102fc59&key=2cc69eaaa858fed24c5623654daf8d3d
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="SINGAPORE",CHANNEL U
+https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7a9ea6df52044841b0c562766e602610&key=b9380188b4896b25e8d419dfce938c6e
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="SINGAPORE",SURIA
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-title="SINGAPORE",VASANTHAM
+https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="NEWS",Channel News Asia
+http://axcestv.vip:8080/freeview/axcestv/562
+#EXTINF:-1 tvg-id="" tvg-name="Channel 5" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SINGAPORE",Channel 5
+http://axcestv.vip:8080/freeview/axcestv/644
+#EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SINGAPORE",Channel 8
+http://axcestv.vip:8080/freeview/axcestv/645
+#EXTINF:-1 tvg-id="" tvg-name="Channel U" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SINGAPORE",Channel U
+http://axcestv.vip:8080/freeview/axcestv/646
+#EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SINGAPORE",Vasantham
+http://axcestv.vip:8080/freeview/axcestv/647
+#EXTINF:-1 tvg-id="" tvg-name="Suria" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="SINGAPORE",Suria
+http://axcestv.vip:8080/freeview/axcestv/648
+
+#EXTINF:-1 tvg-id="CNA" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png" ch-number="515",515 CNA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/605
+https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="997" tvg-chno="997" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956277%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=150&Height=150&ImageUrl=%27956277.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5 
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2448fc561b0c4220a81f1008971d3088&key=f48eb6753f3d1774da682970c93cf260
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="998" tvg-chno="998" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956273%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=150&Height=150&ImageUrl=%27956273.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0328a153c2994b279ab03ab25102fc59&key=2cc69eaaa858fed24c5623654daf8d3d
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="999" tvg-chno="999" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272261554%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=150&Height=150&ImageUrl=%272261554.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U
+https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7a9ea6df52044841b0c562766e602610&key=b9380188b4896b25e8d419dfce938c6e
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="1000" tvg-chno="1000" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="1001" tvg-chno="1001" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956271%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=150&Height=150&ImageUrl=%27956271.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
+https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="1002" tvg-chno="1002" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956283%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=150&Height=150&ImageUrl=%27956283.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
+https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=612eb711dfb444f7a194c5e20d7f7048&key=b6226449b9ed5066542e6d6ad5ecb346
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="1003" tvg-chno="1003" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='2362416'&EntityType='Item'&EntityId='187161'&Width=336&Height=189&ImageUrl='2362416.png'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",oktolidays
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=60dc08aae52f4c0b806a8e43f24a12c8&key=30d5b579966d822b215ec51a91d8a271
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="1004" tvg-chno="1004" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%273748542%27&EntityType=%27Item%27&EntityId=%27245216%27&Width=336&Height=189&ImageUrl=%273748542.jpg%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27_en,all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Global Citizen
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="1006" tvg-chno="1006" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3350445'&EntityType='Item'&EntityId='229211'&Width=237&Height=237&ImageUrl='3350445.jpg'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",meWATCH LIVE 1 [Unencrypted]
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=60dc08aae52f4c0b806a8e43f24a12c8&key=30d5b579966d822b215ec51a91d8a271
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="1007" tvg-chno="1007" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3350553'&EntityType='Item'&EntityId='229212'&Width=237&Height=237&ImageUrl='3350553.jpg'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",meWATCH LIVE 2
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
