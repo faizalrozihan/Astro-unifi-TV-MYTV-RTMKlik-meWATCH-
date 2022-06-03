@@ -5,7 +5,7 @@ https://bit.ly/aqfadtvepg
 https://weareblahs.github.io/epg/astro.xml 
 https://weareblahs.github.io/epg/unifitv.xml
 https://weareblahs.github.io/epg/mytv.xml
-https://weareblahs.github.io/epg/astro.xml
+https://weareblahs.github.io/epg/rtmklik.xml
 https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml
 https://raw.githubusercontent.com/AqFad2811/myiptv/main/indonesia.xml
 https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml
