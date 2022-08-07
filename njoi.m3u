@@ -15,7 +15,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
-http://axcestv.vip:8080/freeview/axcestv/453
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http://app.iptv8k.org/mobile//GetLiveAdv.aspx?version=android&area=&type=%E7%9B%B4%E6%92%AD&name=RIA%28B%29+Astro&stream=true
+https://aqfadtv.xyz/ria.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -235,10 +239,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroHuaHeeDai" ch-number="333" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",333 Astro Hua Hee Dai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2308
-# http://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 # https://linears-playback.astro.com.my/vsg/41XIhsuiAJb9D_yE1eifHDE3bycgQ7ecBQzq6QxQH48QM=BT3q/dash-wv/jitp-linearwm/2308/default_primary.mpd
 # https://live.astradamy.com/astro/huaheedai/index.mpd
-https://onedrive.aqfadtv.xyz/api/raw/?path=/expired.mp4&raw=true
 
 #EXTINF:-1 tvg-id="CCTV4" ch-number="335" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/130944092-ce1ac88b-08ed-4a79-b8c1-4e3b0b6af688.png",335 CCTV4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -264,11 +267,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2702
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
-
-#EXTINF:-1 tvg-id="OhK" ch-number="394" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png",394 Oh!K HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1002
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_primary.mpd
 
 #EXTINF:-1 tvg-id="tvN" ch-number="395" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",395 tvN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -397,11 +395,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5049
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
-
-#EXTINF:-1 tvg-id="KIX" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png" ch-number="705",705 KIX HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/607
-http://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_ott.mpd
 
 #EXTINF:-1 tvg-id="HITS" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png" ch-number="706",706 HITS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
