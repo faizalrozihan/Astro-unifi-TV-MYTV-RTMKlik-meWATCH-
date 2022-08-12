@@ -295,11 +295,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2306
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
-#EXTINF:-1 tvg-id="KBSWorld" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png",392 KBS World HD (Backup)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0mY29udGV4dFR5cGU9bm9uZSZpZD0xMzIyNTM2NSIsImFjY291bnRfaWQiOjMwODk2MzMsImNvbnRlbnRfaWQiOiIxYjVlNTE1Nl8zOGRlXzQyNDNfYjZiYV80OTg0M2QwYmU3NjMiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0iLCJ1ZGlkIjoiMGM2ZWI4NmMtMDBjZi00MzExLWJiMGUtZGUxZmYyMTg0ZTdlX1dFQi01YTBhOWRhNy1lZjY0LWFhZGMtYzkzNS04ZTIwNDg1YTM2NDgiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=K%2fiMTYLQgjASv%2f0fCFtwVWcZipQ%3d&sessionId=858c8f07-84fc-3b2a-11e3-067eba45e8d2:2a0c49ed-e786-1f06-7cf1-6e1454146bd5&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L21vb25zaGluZS8xMDk0NTEyL3BsYXllcj9saW5lYXJJZD0xMDAxNDYyMjEmaXNMaXZlPXRydWU=
-https://linear02-playback.sooka.my/CH1/masterCH1.mpd
-
 #EXTINF:-1 tvg-id="ONE" ch-number="393" group-title="Korean" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",393 ONE HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2702
@@ -320,71 +315,48 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
-#EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",401 HITS Movies
+#EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",401 HITS Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2305
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bb5e8d918097e067ab1bc7e3a9e68410&key=dbda57d3de69f5e4b78ff2cc73d8a51a
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
-#EXTINF:-1 tvg-id="BOO" ch-number="404" group-title="Movies" tvg-logo="https://aqfadtv.astradamy.com/logos/BOOWhite.png",404 BOO HD 
+#EXTINF:-1 tvg-id="BOO" ch-number="404" group-title="Astro" tvg-logo="https://aqfadtv.astradamy.com/logos/BOOWhite.png",404 BOO HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2407
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO" ch-number="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",411 HBO
+#EXTINF:-1 tvg-id="HBO" ch-number="411" group-title="Astro" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",411 HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2304
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=897aa91ee5958140b5ebd8076cced310&key=453b01beb73c78bd6f8ad380f8a06a8e
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 
-#EXTINF:-1 tvg-id="HBO" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO (HBO GO Feed)
-https://live.astradamy.com/hbogo/hbo/index.m3u8
-
-#EXTINF:-1 tvg-id="Cinemax" ch-number="412" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",412 Cinemax
+#EXTINF:-1 tvg-id="Cinemax" ch-number="412" group-title="Astro" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",412 Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/603
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1b0fbb95b8d4ab19d3ea816be9683310&key=560e1ef299aa9a4352e70ed14f8839b9
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Cinemax" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax (HBO GO Feed)
-https://live.astradamy.com/hbogo/cinemax/index.m3u8
-
-#EXTINF:-1 tvg-id="ShowcaseMovies" ch-number="413" group-title="Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",413 Showcase Movies
+#EXTINF:-1 tvg-id="ShowcaseMovies" ch-number="413" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",413 Showcase Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5054
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
-#EXTINF:-1 tvg-id="HBOFamily1" ch-number="414" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",414 HBO Family +1
+#EXTINF:-1 tvg-id="HBOFamily" ch-number="414" group-title="Astro" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",414 HBO Family +1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5053
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8cfb499a75630eca1d50e584f58e9310&key=0a11d637ad2eaa1f7a75f42b7fc72b30
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 
-#EXTINF:-1 tvg-id="HBOFamily.id" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-# https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-https://live.astradamy.com/hbogo/hbofam/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOHits1" ch-number="415" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",415 HBO Hits +1
+#EXTINF:-1 tvg-id="HBOHits" ch-number="415" group-title="Astro" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",415 HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5055
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2d8d9b7ed94fad6e56f1642504605b10&key=cf881ed230797c106f8e6ac843d797f3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 
-#EXTINF:-1 tvg-id="HBOHits.id" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-# https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
-https://live.astradamy.com/hbogo/hbohits/index.m3u8
-
-#EXTINF:-1 tvg-id="tvNMovies" ch-number="416" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",416 tvN Movies HD 
+#EXTINF:-1 tvg-id="tvNMovies" ch-number="416" group-title="Astro" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",416 tvN Movies HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2406
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4667aa2bb9d080471f43e03d40868c10&key=116db8fda0a62355cf24c6acb6aab03d
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroAwani" ch-number="501" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",501 Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroAwani" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",501 Astro Awani (Backup)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0mY29udGV4dFR5cGU9bm9uZSZpZD0xMzQxMDMxMiIsImFjY291bnRfaWQiOjMwODk2MzMsImNvbnRlbnRfaWQiOiI0ZmMxMTJmOV8yYTlmXzRlYjlfODlhMV9iZDc4MGQzZTNkZTYiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0iLCJ1ZGlkIjoiMGM2ZWI4NmMtMDBjZi00MzExLWJiMGUtZGUxZmYyMTg0ZTdlX1dFQi01YTBhOWRhNy1lZjY0LWFhZGMtYzkzNS04ZTIwNDg1YTM2NDgiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=lzsXj4IZ3jefXEvcomutDkVqAlk%3d&sessionId=b06df4ce-97e4-63cc-ddc7-1e6e35e8f4b5:b1fa9583-b657-d2a4-a1f9-a019fe872d8c&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5Ly1sLS1hd2FuaS03LTQ1LzExMDM2MzIvcGxheWVyP2xpbmVhcklkPTEwMDE0NjQ4MCZpc0xpdmU9dHJ1ZQ==
-https://linear03-playback.sooka.my/CH5/masterCH5.mpd
 
 #EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 BERNAMA  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
