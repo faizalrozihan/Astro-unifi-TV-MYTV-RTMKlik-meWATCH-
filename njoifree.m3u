@@ -15,7 +15,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
 #EXTINF:-1 tvg-id="103" group-title="myFreeview" ch-number="103"  tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
-#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
 #EXTINF:-1 tvg-id="GoShopBAARU" group-title="Shopping" ch-number="111" tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png",111 Go Shop BAARU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -50,21 +49,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="125" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",125 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroOasis" group-title="Astro" ch-number="126" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest?cb=20190111152636",126 Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#https://links.aqfadtv.xyz/oasis.mpd
-#https://tv.kpsvpn.com/astroblasis.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-# https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-# https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" group-title="myFreeview" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
@@ -107,7 +100,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_pri
 # https://linears-playback.astro.com.my/vsg/41_nxifvQd-Nk1Ttoh9Oi6kwbM84oh2Xo9Jek0v8Iww3c=SqBL/dash-wv/jitp-linearwm/2400/default_primary.mpd
 # https://live.astradamy.com/astro/aec/index.mpd
 
-#EXTINF:-1 tvg-id="CCTV4" ch-number="375" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/130944092-ce1ac88b-08ed-4a79-b8c1-4e3b0b6af688.png",375 CCTV4 HD
+#EXTINF:-1 tvg-id="CCTV4" ch-number="375" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/130944092-ce1ac88b-08ed-4a79-b8c1-4e3b0b6af688.png",375 CCTV4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09db4c1b805ee425c48f2f328e641110&key=280b40db599c53c1620d3fc0e41c7fdd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
