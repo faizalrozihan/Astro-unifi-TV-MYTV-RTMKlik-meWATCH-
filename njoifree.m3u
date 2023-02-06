@@ -12,9 +12,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 tvg-id="103" group-title="myFreeview" ch-number="103"  tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
+#EXTINF:-1 tvg-id="103" group-title="myFreeview" ch-number="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3
+https://aqfadtv.xyz/live/tv3/index.mpd
 
 #EXTINF:-1 tvg-id="GoShopBAARU" group-title="Shopping" ch-number="111" tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png",111 Go Shop BAARU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -57,20 +57,24 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5072
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 
 #EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" group-title="myFreeview" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
-# https://aqfadtv.astradamy.com/stream/DidikTVKPM.php
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
+https://aqfadtv.xyz/live/didiktvkpm/index.mpd
 
 #EXTINF:-1 tvg-id="8TV" ch-number="148" group-title="myFreeview" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV 
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
-# https://unifi-live02.secureswiftcontent.com/UnifiSD/live02.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
+https://aqfadtv.xyz/live/8tv/index.mpd
 
 #EXTINF:-1 tvg-id="TV9" ch-number="149" group-title="myFreeview" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",149 TV9
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
-# https://aqfadtv.astradamy.com/stream/TV9.php
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
+https://aqfadtv.xyz/live/tv9/index.mpd
 
 #EXTINF:-1 tvg-id="AstroVaanavil" ch-number="261" group-title="Indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",261 Astro Vaanavil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
